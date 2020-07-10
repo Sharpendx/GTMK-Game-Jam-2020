@@ -701,3 +701,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.10-19.58.57:730][561]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001AF6DB6FE00), frame # 561
 [2020.07.10-19.58.57:730][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
 [2020.07.10-19.58.57:753][562]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.07.10-20.00.52:954][539]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.10-20.00.53:232][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.07.10-20.00.53:405][539]LogSavePackage: Moving 'C:/Users/Albatross/Desktop/Game Jam/GTMK Game Jam 2020/DefinitelyNotSmokey/Saved/ThirdPersonExampleMap9E39C3B542A59481946F65956B5B4D6A.tmp' to 'C:/Users/Albatross/Desktop/Game Jam/GTMK Game Jam 2020/DefinitelyNotSmokey/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.07.10-20.00.53:557][539]LogSavePackage: Moving 'C:/Users/Albatross/Desktop/Game Jam/GTMK Game Jam 2020/DefinitelyNotSmokey/Saved/ThirdPersonExampleMap_BuiltData8BFAB8174F226454E02FE6B2E871CA4A.tmp' to 'C:/Users/Albatross/Desktop/Game Jam/GTMK Game Jam 2020/DefinitelyNotSmokey/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.07.10-20.00.53:573][539]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.10-20.00.53:573][539]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.07.10-20.00.53:573][539]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
