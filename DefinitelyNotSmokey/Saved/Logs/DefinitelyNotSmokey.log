@@ -15442,6 +15442,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.11-01.18.46:785][864]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.07.11-01.18.46:785][864]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2020.07.11-01.18.48:480][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+<<<<<<< Updated upstream
 [2020.07.11-01.19.17:043][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
 [2020.07.11-01.19.17:059][812]LogSlate: Window 'Tree' being destroyed
 [2020.07.11-01.19.17:062][812]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
@@ -15872,3 +15873,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.11-01.19.18:968][813]LogD3D11RHI: CleanupD3DDevice
 [2020.07.11-01.19.18:980][813]LogExit: Exiting.
 [2020.07.11-01.19.18:983][813]Log file closed, 07/10/20 21:19:18
+=======
+>>>>>>> Stashed changes
